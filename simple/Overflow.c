@@ -8,8 +8,8 @@ main()
 	char password[32], buffer[32];
 
 	strcpy(password, "SuperSecretPassword");
-	//printf("Address of the buffer is 0x%x\n", &buffer);
-	//printf("Address of the password is 0x%x\n", &password);
+	printf("Address of the buffer is 0x%x\n", &buffer);
+	printf("Address of the password is 0x%x\n", &password);
 
 	while(1)
 	{
