@@ -1,5 +1,6 @@
-# overflow-example
-An example buffer overflow exploit.
+# Complex Buffer Overflow Exploit
+
+An example buffer overflow exploit for getting a shell on the target system.
 
 ###Included files
 
